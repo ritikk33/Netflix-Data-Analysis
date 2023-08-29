@@ -5,4 +5,3 @@ In this project, I got the opportunity to study, develop a few business objectiv
 and apply SQL concepts to retrieve insights from it. 
 I have used MySQL Workbench for primary data modelling and querying the database and used cmd prompt for loading the data.
 
-YouTube Link for short video of project: https://youtu.be/lhJ6eUtapd8
